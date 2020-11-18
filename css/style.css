@@ -1,0 +1,208 @@
+@font-face{
+    font-family: sharformalfunnyess;
+    src: url("../fonts/sharkformalfunnyness.ttf");
+}
+
+body{
+    background-image: url("../img/fundoBR.png");
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.title{
+    text-align: center;
+    font-size: 6vw;
+    font-family: sharformalfunnyess;
+    color: #eee;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #080808;
+}
+
+.subtitle{
+    text-align: center;
+    font-size: 3vw;
+    font-family: sharformalfunnyess;
+    color: #eee;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #080808;
+}
+
+.sticker {
+    width: 140px;
+    height: 140px;
+}
+
+.espaco{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    float: left;
+    margin: 2vw;
+    font-family: sharformalfunnyess;
+    text-align: center;
+}
+
+.container p{
+    font-size: 24px;
+    color: #eee;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: #080808;
+}
+
+.example-1 .sticker-img {
+    background-image: url("../img/alisson.jpg");
+    background-size: cover;
+}
+
+.example-2 .sticker-img {
+    background-image: url("../img/daniAlves.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-3 .sticker-img {
+    background-image: url("../img/tiagoSilva.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-4 .sticker-img {
+    background-image: url("../img/marquin.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-5 .sticker-img {
+    background-image: url("../img/marcelo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-6 .sticker-img {
+    background-image: url("../img/casemiro.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-7 .sticker-img {
+    background-image: url("../img/artur.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-8 .sticker-img {
+    background-image: url("../img/coutin.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-9 .sticker-img {
+    background-image: url("../img/cebolinha.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-10 .sticker-img {
+    background-image: url("../img/ney.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-11 .sticker-img {
+    background-image: url("../img/richarlinson.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-12 .sticker-img {
+    background-image: url("../img/cassio.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-13 .sticker-img {
+    background-image: url("../img/filipeluis.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-14 .sticker-img {
+    background-image: url("../img/miranda.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-15 .sticker-img {
+    background-image: url("../img/paqueta\,jpg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-16 .sticker-img {
+    background-image: url("../img/fagner.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-17 .sticker-img {
+    background-image: url("../img/firmino.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-18 .sticker-img {
+    background-image: url("../img/Gabriel_Barbosa_-_Rio_2016.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-19 .sticker-img {
+    background-image: url("../img/jesus.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-20 .sticker-img {
+    background-image: url("../img/willian.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-21 .sticker-img {
+    background-image: url("../img/Rodrigo_Caio_-_Rio_2016.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-22 .sticker-img {
+    background-image: url("../img/pele.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-23 .sticker-img {
+    background-image: url("../img/romario.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-24 .sticker-img {
+    background-image: url("../img/garrincha.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-25 .sticker-img {
+    background-image: url("../img/ronaldo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.example-26 .sticker-img {
+    background-image: url("../img/ronaldin.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
